@@ -61,5 +61,3 @@ Please ensure your code is well-commented and follows basic C coding conventions
 ## Author
 
 Durjoy Barua / https://github.com/iamdurjoybarua
-
-This README provides a good overview of your repository, instructions on how to use the code, guidelines for contributing, and information about the license. Let me know if you'd like any modifications or further additions!
